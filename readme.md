@@ -1,5 +1,6 @@
 # Projet ANTLR de Terry Marrot A21
 ## Contenue
+Ce projet a été réaliser dans le cadre de mes études pour découvrir ANTLR au travers d'un projet de syntaxe simple
 mon projet suit la syntaxe du projet sans supplement et prend en compte 
 la syntaxe de base avec les simpleops et les variables 
 SimpleOpApp est l'application a lancer
