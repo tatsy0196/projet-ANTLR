@@ -1,0 +1,2 @@
+int varInt = 1;
+int varInt = 3;

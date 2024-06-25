@@ -1,0 +1,2 @@
+int varInt;
+varInt = [1,2,3];
